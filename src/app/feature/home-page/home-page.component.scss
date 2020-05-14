@@ -1,0 +1,27 @@
+.userCardLayout{
+    background-color: rgb(90, 223, 223);
+    font-size: 1em;
+    color: antiquewhite;
+    text-align: center;
+    margin: 0 0 0 0;
+}
+.roleCardLayout{
+    background-color: rgb(22, 159, 212);
+    font-size: 1em;
+    color: antiquewhite;
+    text-align: center;
+    margin: 0 0 0 0;
+}
+.transBox {
+    opacity: 0.9;
+    filter: alpha(opacity=90); /* For IE8 and earlier */
+}
+
+.homeBg {
+    background-image: url("~/assets/images/home-bg.jpg");
+    background-color: #cccccc;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+       

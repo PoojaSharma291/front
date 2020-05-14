@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "id": "192017f6-2bc1-8d4a-9a51-71c7dccce4bc",
+            "firstName": "Pooja",
+            "lastName": "Sharma",
+            "description": "02/09/91",
+            "city": "Delhi",
+            "phoneNumber": "123456789",
+            "type": "Saloon",
+            "status": "Pending"
+        },
+        {
+            "id": "192017f6-2bc1-8d4a-9a51-71c7dcdce4bc",
+            "firstName": "Sameer",
+            "lastName": "Gogia",
+            "description": "02/09/91",
+            "city": "Delhi",
+            "phoneNumber": "123456789",
+            "type": "Saloon",
+            "status": "Pending"
+        }
+    ]
+}
